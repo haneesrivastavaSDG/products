@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+
+{% block title %}Cart #{{ cart.id }} - Unified API Demo{% endblock %}
+
+{% block content %}
+<a href="{{ url_for('carts_list') }}" class="btn" style="margin-bottom: 2rem;">&larr; Back to Carts</a>
+
+<div class="detail-container" style="display: block;">
+    <h2>Cart #{{ cart.id }}</h2>
+    <p><strong>User ID:</strong> {{ cart.userId }}</p>
+
+    <h3>Products</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Total</th>
+                <th>Discounted Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for product in cart.products %}
+            <tr>
+                <td>
+                    <div style="display: flex; align-items: center; gap: 1rem;">
+                        <img src="{{ product.thumbnail }}" alt="{{ product.title }}"
+                            style="width: 50px; height: 50px; object-fit: cover; border-radius: 4px;">
+                        <a href="{{ url_for('product_detail', id=product.id) }}"
+                            style="color: var(--primary-color); font-weight: bold;">{{ product.title }}</a>
+                    </div>
+                </td>
+                <td>${{ product.price }}</td>
+                <td>{{ product.quantity }}</td>
+                <td>${{ product.total }}</td>
+                <td>${{ product.discountedTotal }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="3" style="text-align: right; font-weight: bold;">Total:</td>
+                <td style="font-weight: bold;">${{ cart.total }}</td>
+                <td style="font-weight: bold; color: var(--accent-color);">${{ cart.discountedTotal }}</td>
+            </tr>
+        </tfoot>
+    </table>
+</div>
+{% endblock %}
