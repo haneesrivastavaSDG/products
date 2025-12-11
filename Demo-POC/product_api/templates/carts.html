@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block title %}Carts - Unified API Demo{% endblock %}
+
+{% block content %}
+<h2>All Carts</h2>
+<div class="grid">
+    {% for cart in carts %}
+    <div class="card">
+        <h3>Cart #{{ cart.id }}</h3>
+        <p>User ID: {{ cart.userId }}</p>
+        <p>Total Products: {{ cart.totalProducts }}</p>
+        <p>Total Quantity: {{ cart.totalQuantity }}</p>
+        <div class="price">${{ cart.total }}</div>
+        <a href="{{ url_for('cart_detail', id=cart.id) }}" class="btn">View Details</a>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

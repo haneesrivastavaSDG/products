@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Sierra Demo{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <header>
+        <h1>Sierra Demo</h1>
+        <nav>
+            <ul>
+                <li><a href="{{ url_for('products_list') }}">Products</a></li>
+                <li><a href="{{ url_for('carts_list') }}">Carts</a></li>
+                <li><a href="{{ url_for('users_list') }}">Users</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer>
+        <p style="text-align: center; margin-top: 2rem; color: #888;">&copy; 2025 Sierra Demo</p>
+    </footer>
+</body>
+
+</html>

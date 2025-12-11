@@ -1,0 +1,1187 @@
+{
+    "carts": [
+        {
+            "id": 1,
+            "products": [
+                {
+                    "id": 168,
+                    "title": "Charger SXT RWD",
+                    "price": 32999.99,
+                    "quantity": 3,
+                    "total": 98999.97,
+                    "discountPercentage": 13.39,
+                    "discountedTotal": 85743.87,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/thumbnail.webp"
+                },
+                {
+                    "id": 78,
+                    "title": "Apple MacBook Pro 14 Inch Space Grey",
+                    "price": 1999.99,
+                    "quantity": 2,
+                    "total": 3999.98,
+                    "discountPercentage": 18.52,
+                    "discountedTotal": 3259.18,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp"
+                },
+                {
+                    "id": 183,
+                    "title": "Green Oval Earring",
+                    "price": 24.99,
+                    "quantity": 5,
+                    "total": 124.95,
+                    "discountPercentage": 6.28,
+                    "discountedTotal": 117.1,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-oval-earring/thumbnail.webp"
+                },
+                {
+                    "id": 100,
+                    "title": "Apple Airpods",
+                    "price": 129.99,
+                    "quantity": 5,
+                    "total": 649.95,
+                    "discountPercentage": 12.84,
+                    "discountedTotal": 566.5,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp"
+                }
+            ],
+            "total": 103774.85,
+            "discountedTotal": 89686.65,
+            "userId": 33,
+            "totalProducts": 4,
+            "totalQuantity": 15
+        },
+        {
+            "id": 2,
+            "products": [
+                {
+                    "id": 144,
+                    "title": "Cricket Helmet",
+                    "price": 44.99,
+                    "quantity": 4,
+                    "total": 179.96,
+                    "discountPercentage": 11.47,
+                    "discountedTotal": 159.32,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/thumbnail.webp"
+                },
+                {
+                    "id": 98,
+                    "title": "Rolex Submariner Watch",
+                    "price": 13999.99,
+                    "quantity": 1,
+                    "total": 13999.99,
+                    "discountPercentage": 16.35,
+                    "discountedTotal": 11710.99,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/thumbnail.webp"
+                },
+                {
+                    "id": 109,
+                    "title": "Kiwi",
+                    "price": 2.49,
+                    "quantity": 2,
+                    "total": 4.98,
+                    "discountPercentage": 10.32,
+                    "discountedTotal": 4.47,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp"
+                },
+                {
+                    "id": 26,
+                    "title": "Plant Hanger For Home",
+                    "price": 41.99,
+                    "quantity": 2,
+                    "total": 83.98,
+                    "discountPercentage": 17.86,
+                    "discountedTotal": 68.98,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/plant-hanger-for-home/thumbnail.webp"
+                },
+                {
+                    "id": 96,
+                    "title": "Lighting Ceiling Kitchen",
+                    "price": 30,
+                    "quantity": 1,
+                    "total": 30,
+                    "discountPercentage": 14.89,
+                    "discountedTotal": 25.53,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/lighting/lighting-ceiling-kitchen/thumbnail.webp"
+                }
+            ],
+            "total": 14298.91,
+            "discountedTotal": 11969.29,
+            "userId": 142,
+            "totalProducts": 5,
+            "totalQuantity": 10
+        },
+        {
+            "id": 3,
+            "products": [
+                {
+                    "id": 98,
+                    "title": "Rolex Submariner Watch",
+                    "price": 13999.99,
+                    "quantity": 5,
+                    "total": 69999.95,
+                    "discountPercentage": 16.35,
+                    "discountedTotal": 58554.96,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/thumbnail.webp"
+                },
+                {
+                    "id": 91,
+                    "title": "Sports Sneakers Off White & Red",
+                    "price": 119.99,
+                    "quantity": 2,
+                    "total": 239.98,
+                    "discountPercentage": 11.69,
+                    "discountedTotal": 211.93,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/thumbnail.webp"
+                },
+                {
+                    "id": 103,
+                    "title": "Tree Oil 30ml",
+                    "price": 12,
+                    "quantity": 3,
+                    "total": 36,
+                    "discountPercentage": 3.8,
+                    "discountedTotal": 34.63,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/skin-care/tree-oil-30ml/thumbnail.webp"
+                },
+                {
+                    "id": 140,
+                    "title": "Women Neon Shoes",
+                    "price": 769.99,
+                    "quantity": 2,
+                    "total": 1539.98,
+                    "discountPercentage": 13.52,
+                    "discountedTotal": 1331.77,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/women-neon-shoes/thumbnail.webp"
+                },
+                {
+                    "id": 125,
+                    "title": "Oppo A57",
+                    "price": 249.99,
+                    "quantity": 2,
+                    "total": 499.98,
+                    "discountPercentage": 12.17,
+                    "discountedTotal": 439.13,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/thumbnail.webp"
+                }
+            ],
+            "total": 72315.89,
+            "discountedTotal": 60572.42,
+            "userId": 108,
+            "totalProducts": 5,
+            "totalQuantity": 14
+        },
+        {
+            "id": 4,
+            "products": [
+                {
+                    "id": 36,
+                    "title": "Sleeve Shirt Womens",
+                    "price": 90,
+                    "quantity": 1,
+                    "total": 90,
+                    "discountPercentage": 10.89,
+                    "discountedTotal": 80.2,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/tops/sleeve-shirt-womens/thumbnail.webp"
+                },
+                {
+                    "id": 192,
+                    "title": "Woman T-Shirt",
+                    "price": 29.99,
+                    "quantity": 4,
+                    "total": 119.96,
+                    "discountPercentage": 18.61,
+                    "discountedTotal": 97.64,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/womens-clothing/woman-t-shirt/thumbnail.webp"
+                },
+                {
+                    "id": 46,
+                    "title": "women's shoes",
+                    "price": 40,
+                    "quantity": 2,
+                    "total": 80,
+                    "discountPercentage": 16.96,
+                    "discountedTotal": 66.43,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/women's-shoes/thumbnail.webp"
+                },
+                {
+                    "id": 13,
+                    "title": "Bedside Table African Cherry",
+                    "price": 299.99,
+                    "quantity": 4,
+                    "total": 1199.96,
+                    "discountPercentage": 19.09,
+                    "discountedTotal": 970.89,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp"
+                },
+                {
+                    "id": 144,
+                    "title": "Cricket Helmet",
+                    "price": 44.99,
+                    "quantity": 4,
+                    "total": 179.96,
+                    "discountPercentage": 11.47,
+                    "discountedTotal": 159.32,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/thumbnail.webp"
+                }
+            ],
+            "total": 1669.88,
+            "discountedTotal": 1374.48,
+            "userId": 87,
+            "totalProducts": 5,
+            "totalQuantity": 15
+        },
+        {
+            "id": 5,
+            "products": [
+                {
+                    "id": 163,
+                    "title": "MotoGP T-Shirt",
+                    "price": 29.99,
+                    "quantity": 3,
+                    "total": 89.97,
+                    "discountPercentage": 10.61,
+                    "discountedTotal": 80.42,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/motogp-t-shirt/thumbnail.webp"
+                },
+                {
+                    "id": 105,
+                    "title": "Apple",
+                    "price": 1.99,
+                    "quantity": 3,
+                    "total": 5.97,
+                    "discountPercentage": 1.97,
+                    "discountedTotal": 5.85,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp"
+                },
+                {
+                    "id": 7,
+                    "title": "Chanel Coco Noir Eau De",
+                    "price": 129.99,
+                    "quantity": 4,
+                    "total": 519.96,
+                    "discountPercentage": 16.51,
+                    "discountedTotal": 434.11,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp"
+                },
+                {
+                    "id": 184,
+                    "title": "Green Pendant",
+                    "price": 45.99,
+                    "quantity": 2,
+                    "total": 91.98,
+                    "discountPercentage": 17.36,
+                    "discountedTotal": 76.01,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-pendant/thumbnail.webp"
+                },
+                {
+                    "id": 125,
+                    "title": "Oppo A57",
+                    "price": 249.99,
+                    "quantity": 5,
+                    "total": 1249.95,
+                    "discountPercentage": 12.17,
+                    "discountedTotal": 1097.83,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/thumbnail.webp"
+                },
+                {
+                    "id": 132,
+                    "title": "Samsung Galaxy S8",
+                    "price": 499.99,
+                    "quantity": 3,
+                    "total": 1499.97,
+                    "discountPercentage": 2.69,
+                    "discountedTotal": 1459.62,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/thumbnail.webp"
+                }
+            ],
+            "total": 3457.8,
+            "discountedTotal": 3153.84,
+            "userId": 134,
+            "totalProducts": 6,
+            "totalQuantity": 20
+        },
+        {
+            "id": 6,
+            "products": [
+                {
+                    "id": 98,
+                    "title": "Rolex Submariner Watch",
+                    "price": 13999.99,
+                    "quantity": 1,
+                    "total": 13999.99,
+                    "discountPercentage": 16.35,
+                    "discountedTotal": 11710.99,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/thumbnail.webp"
+                },
+                {
+                    "id": 125,
+                    "title": "Oppo A57",
+                    "price": 249.99,
+                    "quantity": 4,
+                    "total": 999.96,
+                    "discountPercentage": 12.17,
+                    "discountedTotal": 878.26,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/thumbnail.webp"
+                },
+                {
+                    "id": 55,
+                    "title": "Egg Slicer",
+                    "price": 6.99,
+                    "quantity": 2,
+                    "total": 13.98,
+                    "discountPercentage": 9.6,
+                    "discountedTotal": 12.64,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/thumbnail.webp"
+                },
+                {
+                    "id": 62,
+                    "title": "Ice Cube Tray",
+                    "price": 5.99,
+                    "quantity": 2,
+                    "total": 11.98,
+                    "discountPercentage": 0.95,
+                    "discountedTotal": 11.87,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/ice-cube-tray/thumbnail.webp"
+                },
+                {
+                    "id": 132,
+                    "title": "Samsung Galaxy S8",
+                    "price": 499.99,
+                    "quantity": 3,
+                    "total": 1499.97,
+                    "discountPercentage": 2.69,
+                    "discountedTotal": 1459.62,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/thumbnail.webp"
+                }
+            ],
+            "total": 16525.88,
+            "discountedTotal": 14073.38,
+            "userId": 91,
+            "totalProducts": 5,
+            "totalQuantity": 12
+        },
+        {
+            "id": 7,
+            "products": [
+                {
+                    "id": 108,
+                    "title": "Juice",
+                    "price": 3.99,
+                    "quantity": 4,
+                    "total": 15.96,
+                    "discountPercentage": 5.45,
+                    "discountedTotal": 15.09,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp"
+                },
+                {
+                    "id": 129,
+                    "title": "Realme X",
+                    "price": 299.99,
+                    "quantity": 2,
+                    "total": 599.98,
+                    "discountPercentage": 2.39,
+                    "discountedTotal": 585.64,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-x/thumbnail.webp"
+                },
+                {
+                    "id": 10,
+                    "title": "Gucci Bloom Eau de",
+                    "price": 79.99,
+                    "quantity": 2,
+                    "total": 159.98,
+                    "discountPercentage": 14.39,
+                    "discountedTotal": 136.96,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp"
+                },
+                {
+                    "id": 101,
+                    "title": "Apple Watch Series 8",
+                    "price": 299.99,
+                    "quantity": 3,
+                    "total": 899.97,
+                    "discountPercentage": 5.14,
+                    "discountedTotal": 853.71,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-8/thumbnail.webp"
+                }
+            ],
+            "total": 1675.89,
+            "discountedTotal": 1591.4,
+            "userId": 13,
+            "totalProducts": 4,
+            "totalQuantity": 11
+        },
+        {
+            "id": 8,
+            "products": [
+                {
+                    "id": 103,
+                    "title": "Tree Oil 30ml",
+                    "price": 12,
+                    "quantity": 3,
+                    "total": 36,
+                    "discountPercentage": 3.8,
+                    "discountedTotal": 34.63,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/skin-care/tree-oil-30ml/thumbnail.webp"
+                },
+                {
+                    "id": 143,
+                    "title": "Cricket Helmet",
+                    "price": 44.99,
+                    "quantity": 4,
+                    "total": 179.96,
+                    "discountPercentage": 11.47,
+                    "discountedTotal": 159.32,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/thumbnail.webp"
+                },
+                {
+                    "id": 163,
+                    "title": "MotoGP T-Shirt",
+                    "price": 29.99,
+                    "quantity": 5,
+                    "total": 149.95,
+                    "discountPercentage": 10.61,
+                    "discountedTotal": 134.04,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/motogp-t-shirt/thumbnail.webp"
+                },
+                {
+                    "id": 111,
+                    "title": "Blue & Black Check Shirt",
+                    "price": 29.99,
+                    "quantity": 5,
+                    "total": 149.95,
+                    "discountPercentage": 1.41,
+                    "discountedTotal": 147.84,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp"
+                }
+            ],
+            "total": 515.86,
+            "discountedTotal": 475.83,
+            "userId": 182,
+            "totalProducts": 4,
+            "totalQuantity": 17
+        },
+        {
+            "id": 9,
+            "products": [
+                {
+                    "id": 114,
+                    "title": "Blue & Black Check Shirt",
+                    "price": 29.99,
+                    "quantity": 5,
+                    "total": 149.95,
+                    "discountPercentage": 1.41,
+                    "discountedTotal": 147.84,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp"
+                },
+                {
+                    "id": 125,
+                    "title": "Oppo A57",
+                    "price": 249.99,
+                    "quantity": 1,
+                    "total": 249.99,
+                    "discountPercentage": 12.17,
+                    "discountedTotal": 219.57,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/thumbnail.webp"
+                },
+                {
+                    "id": 120,
+                    "title": "iPhone SE",
+                    "price": 399.99,
+                    "quantity": 4,
+                    "total": 1599.96,
+                    "discountPercentage": 8.6,
+                    "discountedTotal": 1462.36,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-se/thumbnail.webp"
+                },
+                {
+                    "id": 181,
+                    "title": "Bronze Bangle",
+                    "price": 49.99,
+                    "quantity": 1,
+                    "total": 49.99,
+                    "discountPercentage": 16.28,
+                    "discountedTotal": 41.85,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/womens-jewellery/bronze-bangle/thumbnail.webp"
+                },
+                {
+                    "id": 150,
+                    "title": "Black Whisk",
+                    "price": 9.99,
+                    "quantity": 2,
+                    "total": 19.98,
+                    "discountPercentage": 16.65,
+                    "discountedTotal": 16.65,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/thumbnail.webp"
+                }
+            ],
+            "total": 2069.87,
+            "discountedTotal": 1888.27,
+            "userId": 198,
+            "totalProducts": 5,
+            "totalQuantity": 13
+        },
+        {
+            "id": 10,
+            "products": [
+                {
+                    "id": 105,
+                    "title": "Apple",
+                    "price": 1.99,
+                    "quantity": 4,
+                    "total": 7.96,
+                    "discountPercentage": 1.97,
+                    "discountedTotal": 7.8,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp"
+                },
+                {
+                    "id": 102,
+                    "title": "Apple Watch Series 8",
+                    "price": 299.99,
+                    "quantity": 5,
+                    "total": 1499.95,
+                    "discountPercentage": 5.14,
+                    "discountedTotal": 1422.85,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-8/thumbnail.webp"
+                },
+                {
+                    "id": 113,
+                    "title": "Blue & Black Check Shirt",
+                    "price": 29.99,
+                    "quantity": 1,
+                    "total": 29.99,
+                    "discountPercentage": 1.41,
+                    "discountedTotal": 29.57,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp"
+                },
+                {
+                    "id": 184,
+                    "title": "Green Pendant",
+                    "price": 45.99,
+                    "quantity": 1,
+                    "total": 45.99,
+                    "discountPercentage": 17.36,
+                    "discountedTotal": 38.01,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-pendant/thumbnail.webp"
+                },
+                {
+                    "id": 136,
+                    "title": "Sports Sneakers Off White & Red",
+                    "price": 119.99,
+                    "quantity": 5,
+                    "total": 599.95,
+                    "discountPercentage": 11.69,
+                    "discountedTotal": 529.82,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/thumbnail.webp"
+                }
+            ],
+            "total": 2183.84,
+            "discountedTotal": 2028.05,
+            "userId": 106,
+            "totalProducts": 5,
+            "totalQuantity": 16
+        },
+        {
+            "id": 11,
+            "products": [
+                {
+                    "id": 113,
+                    "title": "Blue & Black Check Shirt",
+                    "price": 29.99,
+                    "quantity": 1,
+                    "total": 29.99,
+                    "discountPercentage": 1.41,
+                    "discountedTotal": 29.57,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp"
+                },
+                {
+                    "id": 163,
+                    "title": "MotoGP T-Shirt",
+                    "price": 29.99,
+                    "quantity": 1,
+                    "total": 29.99,
+                    "discountPercentage": 10.61,
+                    "discountedTotal": 26.81,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/motogp-t-shirt/thumbnail.webp"
+                },
+                {
+                    "id": 105,
+                    "title": "Apple",
+                    "price": 1.99,
+                    "quantity": 5,
+                    "total": 9.95,
+                    "discountPercentage": 1.97,
+                    "discountedTotal": 9.75,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp"
+                },
+                {
+                    "id": 109,
+                    "title": "Kiwi",
+                    "price": 2.49,
+                    "quantity": 2,
+                    "total": 4.98,
+                    "discountPercentage": 10.32,
+                    "discountedTotal": 4.47,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp"
+                },
+                {
+                    "id": 150,
+                    "title": "Black Whisk",
+                    "price": 9.99,
+                    "quantity": 3,
+                    "total": 29.97,
+                    "discountPercentage": 16.65,
+                    "discountedTotal": 24.98,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/thumbnail.webp"
+                }
+            ],
+            "total": 104.88,
+            "discountedTotal": 95.58,
+            "userId": 116,
+            "totalProducts": 5,
+            "totalQuantity": 12
+        },
+        {
+            "id": 12,
+            "products": [
+                {
+                    "id": 108,
+                    "title": "Juice",
+                    "price": 3.99,
+                    "quantity": 4,
+                    "total": 15.96,
+                    "discountPercentage": 5.45,
+                    "discountedTotal": 15.09,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp"
+                },
+                {
+                    "id": 114,
+                    "title": "Blue & Black Check Shirt",
+                    "price": 29.99,
+                    "quantity": 2,
+                    "total": 59.98,
+                    "discountPercentage": 1.41,
+                    "discountedTotal": 59.13,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp"
+                },
+                {
+                    "id": 105,
+                    "title": "Apple",
+                    "price": 1.99,
+                    "quantity": 4,
+                    "total": 7.96,
+                    "discountPercentage": 1.97,
+                    "discountedTotal": 7.8,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp"
+                },
+                {
+                    "id": 109,
+                    "title": "Kiwi",
+                    "price": 2.49,
+                    "quantity": 4,
+                    "total": 9.96,
+                    "discountPercentage": 10.32,
+                    "discountedTotal": 8.93,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp"
+                },
+                {
+                    "id": 163,
+                    "title": "MotoGP T-Shirt",
+                    "price": 29.99,
+                    "quantity": 1,
+                    "total": 29.99,
+                    "discountPercentage": 10.61,
+                    "discountedTotal": 26.81,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/motogp-t-shirt/thumbnail.webp"
+                }
+            ],
+            "total": 123.85,
+            "discountedTotal": 117.76,
+            "userId": 160,
+            "totalProducts": 5,
+            "totalQuantity": 15
+        },
+        {
+            "id": 13,
+            "products": [
+                {
+                    "id": 144,
+                    "title": "Cricket Helmet",
+                    "price": 44.99,
+                    "quantity": 4,
+                    "total": 179.96,
+                    "discountPercentage": 11.47,
+                    "discountedTotal": 159.32,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/thumbnail.webp"
+                },
+                {
+                    "id": 125,
+                    "title": "Oppo A57",
+                    "price": 249.99,
+                    "quantity": 4,
+                    "total": 999.96,
+                    "discountPercentage": 12.17,
+                    "discountedTotal": 878.26,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/thumbnail.webp"
+                },
+                {
+                    "id": 109,
+                    "title": "Kiwi",
+                    "price": 2.49,
+                    "quantity": 4,
+                    "total": 9.96,
+                    "discountPercentage": 10.32,
+                    "discountedTotal": 8.93,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp"
+                },
+                {
+                    "id": 105,
+                    "title": "Apple",
+                    "price": 1.99,
+                    "quantity": 1,
+                    "total": 1.99,
+                    "discountPercentage": 1.97,
+                    "discountedTotal": 1.95,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp"
+                },
+                {
+                    "id": 150,
+                    "title": "Black Whisk",
+                    "price": 9.99,
+                    "quantity": 2,
+                    "total": 19.98,
+                    "discountPercentage": 16.65,
+                    "discountedTotal": 16.65,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/thumbnail.webp"
+                }
+            ],
+            "total": 1211.85,
+            "discountedTotal": 1065.11,
+            "userId": 102,
+            "totalProducts": 5,
+            "totalQuantity": 15
+        },
+        {
+            "id": 14,
+            "products": [
+                {
+                    "id": 144,
+                    "title": "Cricket Helmet",
+                    "price": 44.99,
+                    "quantity": 2,
+                    "total": 89.98,
+                    "discountPercentage": 11.47,
+                    "discountedTotal": 79.66,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/thumbnail.webp"
+                },
+                {
+                    "id": 184,
+                    "title": "Green Pendant",
+                    "price": 45.99,
+                    "quantity": 3,
+                    "total": 137.97,
+                    "discountPercentage": 17.36,
+                    "discountedTotal": 114.02,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-pendant/thumbnail.webp"
+                },
+                {
+                    "id": 163,
+                    "title": "MotoGP T-Shirt",
+                    "price": 29.99,
+                    "quantity": 1,
+                    "total": 29.99,
+                    "discountPercentage": 10.61,
+                    "discountedTotal": 26.81,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/motogp-t-shirt/thumbnail.webp"
+                },
+                {
+                    "id": 120,
+                    "title": "iPhone SE",
+                    "price": 399.99,
+                    "quantity": 3,
+                    "total": 1199.97,
+                    "discountPercentage": 8.6,
+                    "discountedTotal": 1096.77,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-se/thumbnail.webp"
+                },
+                {
+                    "id": 109,
+                    "title": "Kiwi",
+                    "price": 2.49,
+                    "quantity": 3,
+                    "total": 7.47,
+                    "discountPercentage": 10.32,
+                    "discountedTotal": 6.7,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp"
+                }
+            ],
+            "total": 1465.38,
+            "discountedTotal": 1323.96,
+            "userId": 124,
+            "totalProducts": 5,
+            "totalQuantity": 12
+        },
+        {
+            "id": 15,
+            "products": [
+                {
+                    "id": 163,
+                    "title": "MotoGP T-Shirt",
+                    "price": 29.99,
+                    "quantity": 3,
+                    "total": 89.97,
+                    "discountPercentage": 10.61,
+                    "discountedTotal": 80.42,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/motogp-t-shirt/thumbnail.webp"
+                },
+                {
+                    "id": 120,
+                    "title": "iPhone SE",
+                    "price": 399.99,
+                    "quantity": 1,
+                    "total": 399.99,
+                    "discountPercentage": 8.6,
+                    "discountedTotal": 365.59,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-se/thumbnail.webp"
+                },
+                {
+                    "id": 108,
+                    "title": "Juice",
+                    "price": 3.99,
+                    "quantity": 3,
+                    "total": 11.97,
+                    "discountPercentage": 5.45,
+                    "discountedTotal": 11.32,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp"
+                },
+                {
+                    "id": 184,
+                    "title": "Green Pendant",
+                    "price": 45.99,
+                    "quantity": 5,
+                    "total": 229.95,
+                    "discountPercentage": 17.36,
+                    "discountedTotal": 190.03,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-pendant/thumbnail.webp"
+                },
+                {
+                    "id": 109,
+                    "title": "Kiwi",
+                    "price": 2.49,
+                    "quantity": 1,
+                    "total": 2.49,
+                    "discountPercentage": 10.32,
+                    "discountedTotal": 2.23,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp"
+                }
+            ],
+            "total": 734.37,
+            "discountedTotal": 649.59,
+            "userId": 173,
+            "totalProducts": 5,
+            "totalQuantity": 13
+        },
+        {
+            "id": 16,
+            "products": [
+                {
+                    "id": 109,
+                    "title": "Kiwi",
+                    "price": 2.49,
+                    "quantity": 4,
+                    "total": 9.96,
+                    "discountPercentage": 10.32,
+                    "discountedTotal": 8.93,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp"
+                },
+                {
+                    "id": 108,
+                    "title": "Juice",
+                    "price": 3.99,
+                    "quantity": 3,
+                    "total": 11.97,
+                    "discountPercentage": 5.45,
+                    "discountedTotal": 11.32,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp"
+                },
+                {
+                    "id": 181,
+                    "title": "Bronze Bangle",
+                    "price": 49.99,
+                    "quantity": 1,
+                    "total": 49.99,
+                    "discountPercentage": 16.28,
+                    "discountedTotal": 41.85,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/womens-jewellery/bronze-bangle/thumbnail.webp"
+                },
+                {
+                    "id": 105,
+                    "title": "Apple",
+                    "price": 1.99,
+                    "quantity": 4,
+                    "total": 7.96,
+                    "discountPercentage": 1.97,
+                    "discountedTotal": 7.8,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp"
+                },
+                {
+                    "id": 114,
+                    "title": "Blue & Black Check Shirt",
+                    "price": 29.99,
+                    "quantity": 2,
+                    "total": 59.98,
+                    "discountPercentage": 1.41,
+                    "discountedTotal": 59.13,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp"
+                }
+            ],
+            "total": 139.86,
+            "discountedTotal": 129.03,
+            "userId": 24,
+            "totalProducts": 5,
+            "totalQuantity": 14
+        },
+        {
+            "id": 17,
+            "products": [
+                {
+                    "id": 120,
+                    "title": "iPhone SE",
+                    "price": 399.99,
+                    "quantity": 2,
+                    "total": 799.98,
+                    "discountPercentage": 8.6,
+                    "discountedTotal": 731.18,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-se/thumbnail.webp"
+                },
+                {
+                    "id": 163,
+                    "title": "MotoGP T-Shirt",
+                    "price": 29.99,
+                    "quantity": 3,
+                    "total": 89.97,
+                    "discountPercentage": 10.61,
+                    "discountedTotal": 80.42,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/motogp-t-shirt/thumbnail.webp"
+                },
+                {
+                    "id": 109,
+                    "title": "Kiwi",
+                    "price": 2.49,
+                    "quantity": 1,
+                    "total": 2.49,
+                    "discountPercentage": 10.32,
+                    "discountedTotal": 2.23,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp"
+                },
+                {
+                    "id": 114,
+                    "title": "Blue & Black Check Shirt",
+                    "price": 29.99,
+                    "quantity": 3,
+                    "total": 89.97,
+                    "discountPercentage": 1.41,
+                    "discountedTotal": 88.7,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp"
+                },
+                {
+                    "id": 108,
+                    "title": "Juice",
+                    "price": 3.99,
+                    "quantity": 5,
+                    "total": 19.95,
+                    "discountPercentage": 5.45,
+                    "discountedTotal": 18.86,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp"
+                }
+            ],
+            "total": 1002.36,
+            "discountedTotal": 921.39,
+            "userId": 128,
+            "totalProducts": 5,
+            "totalQuantity": 14
+        },
+        {
+            "id": 18,
+            "products": [
+                {
+                    "id": 108,
+                    "title": "Juice",
+                    "price": 3.99,
+                    "quantity": 3,
+                    "total": 11.97,
+                    "discountPercentage": 5.45,
+                    "discountedTotal": 11.32,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp"
+                },
+                {
+                    "id": 109,
+                    "title": "Kiwi",
+                    "price": 2.49,
+                    "quantity": 4,
+                    "total": 9.96,
+                    "discountPercentage": 10.32,
+                    "discountedTotal": 8.93,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp"
+                },
+                {
+                    "id": 105,
+                    "title": "Apple",
+                    "price": 1.99,
+                    "quantity": 4,
+                    "total": 7.96,
+                    "discountPercentage": 1.97,
+                    "discountedTotal": 7.8,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp"
+                },
+                {
+                    "id": 163,
+                    "title": "MotoGP T-Shirt",
+                    "price": 29.99,
+                    "quantity": 5,
+                    "total": 149.95,
+                    "discountPercentage": 10.61,
+                    "discountedTotal": 134.04,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/motogp-t-shirt/thumbnail.webp"
+                },
+                {
+                    "id": 114,
+                    "title": "Blue & Black Check Shirt",
+                    "price": 29.99,
+                    "quantity": 1,
+                    "total": 29.99,
+                    "discountPercentage": 1.41,
+                    "discountedTotal": 29.57,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp"
+                }
+            ],
+            "total": 209.83,
+            "discountedTotal": 191.66,
+            "userId": 122,
+            "totalProducts": 5,
+            "totalQuantity": 17
+        },
+        {
+            "id": 19,
+            "products": [
+                {
+                    "id": 105,
+                    "title": "Apple",
+                    "price": 1.99,
+                    "quantity": 2,
+                    "total": 3.98,
+                    "discountPercentage": 1.97,
+                    "discountedTotal": 3.9,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp"
+                },
+                {
+                    "id": 109,
+                    "title": "Kiwi",
+                    "price": 2.49,
+                    "quantity": 1,
+                    "total": 2.49,
+                    "discountPercentage": 10.32,
+                    "discountedTotal": 2.23,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp"
+                },
+                {
+                    "id": 163,
+                    "title": "MotoGP T-Shirt",
+                    "price": 29.99,
+                    "quantity": 1,
+                    "total": 29.99,
+                    "discountPercentage": 10.61,
+                    "discountedTotal": 26.81,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/motogp-t-shirt/thumbnail.webp"
+                },
+                {
+                    "id": 114,
+                    "title": "Blue & Black Check Shirt",
+                    "price": 29.99,
+                    "quantity": 3,
+                    "total": 89.97,
+                    "discountPercentage": 1.41,
+                    "discountedTotal": 88.7,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp"
+                },
+                {
+                    "id": 108,
+                    "title": "Juice",
+                    "price": 3.99,
+                    "quantity": 5,
+                    "total": 19.95,
+                    "discountPercentage": 5.45,
+                    "discountedTotal": 18.86,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp"
+                }
+            ],
+            "total": 146.38,
+            "discountedTotal": 140.5,
+            "userId": 12,
+            "totalProducts": 5,
+            "totalQuantity": 12
+        },
+        {
+            "id": 20,
+            "products": [
+                {
+                    "id": 163,
+                    "title": "MotoGP T-Shirt",
+                    "price": 29.99,
+                    "quantity": 5,
+                    "total": 149.95,
+                    "discountPercentage": 10.61,
+                    "discountedTotal": 134.04,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/motogp-t-shirt/thumbnail.webp"
+                },
+                {
+                    "id": 109,
+                    "title": "Kiwi",
+                    "price": 2.49,
+                    "quantity": 3,
+                    "total": 7.47,
+                    "discountPercentage": 10.32,
+                    "discountedTotal": 6.7,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp"
+                },
+                {
+                    "id": 105,
+                    "title": "Apple",
+                    "price": 1.99,
+                    "quantity": 3,
+                    "total": 5.97,
+                    "discountPercentage": 1.97,
+                    "discountedTotal": 5.85,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp"
+                },
+                {
+                    "id": 114,
+                    "title": "Blue & Black Check Shirt",
+                    "price": 29.99,
+                    "quantity": 4,
+                    "total": 119.96,
+                    "discountPercentage": 1.41,
+                    "discountedTotal": 118.27,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp"
+                },
+                {
+                    "id": 108,
+                    "title": "Juice",
+                    "price": 3.99,
+                    "quantity": 1,
+                    "total": 3.99,
+                    "discountPercentage": 5.45,
+                    "discountedTotal": 3.77,
+                    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp"
+                }
+            ],
+            "total": 287.34,
+            "discountedTotal": 268.63,
+            "userId": 92,
+            "totalProducts": 5,
+            "totalQuantity": 16
+        }
+    ],
+    "total": 20,
+    "skip": 0,
+    "limit": 20
+}

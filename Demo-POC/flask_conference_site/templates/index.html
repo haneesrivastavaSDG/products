@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<section class="schedule">
+    <h1>Conference Schedule</h1>
+
+    {% if sessions %}
+    <div class="timeline">
+        {% for session in sessions %}
+        <div class="session-card">
+            <div class="time-badge">{{ session.time }}</div>
+            <div class="session-details">
+                <span class="category-tag">{{ session.category }}</span>
+                <h2>{{ session.title }}</h2>
+                <p class="description">{{ session.description }}</p>
+                <div class="speaker-info">
+                    <span class="speaker-name">By {{ session.speaker }}</span>
+                    <a href="{{ session.speaker_linkedin }}" target="_blank" class="linkedin-link">LinkedIn &rarr;</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    {% else %}
+    <div class="no-results">
+        <p>No sessions found matching "{{ query }}".</p>
+        <a href="/" class="reset-link">View all sessions</a>
+    </div>
+    {% endif %}
+</section>
+{% endblock %}

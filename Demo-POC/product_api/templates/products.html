@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+
+{% block title %}Products - Unified API Demo{% endblock %}
+
+{% block content %}
+<div class="search-bar">
+    <input type="text" id="searchInput" placeholder="Search products...">
+    <button onclick="searchProducts()">Search</button>
+</div>
+
+<div class="grid" id="productsGrid">
+    {% for product in products %}
+    <div class="card">
+        <img src="{{ product.thumbnail }}" alt="{{ product.title }}">
+        <h3>{{ product.title }}</h3>
+        <p>{{ product.description[:100] }}...</p>
+        <div class="price">${{ product.price }}</div>
+        <a href="{{ url_for('product_detail', id=product.id) }}" class="btn">View Details</a>
+    </div>
+    {% endfor %}
+</div>
+
+<script>
+    function searchProducts() {
+        const query = document.getElementById('searchInput').value;
+        fetch(`/api/products/search?q=${query}`)
+            .then(response => response.json())
+            .then(data => {
+                const grid = document.getElementById('productsGrid');
+                grid.innerHTML = '';
+                data.products.forEach(product => {
+                    const card = document.createElement('div');
+                    card.className = 'card';
+                    card.innerHTML = `
+                            <img src="${product.thumbnail}" alt="${product.title}">
+                            <h3>${product.title}</h3>
+                            <p>${product.description.substring(0, 100)}...</p>
+                            <div class="price">$${product.price}</div>
+                            <a href="/products/${product.id}" class="btn">View Details</a>
+                        `;
+                    grid.appendChild(card);
+                });
+            });
+    }
+</script>
+{% endblock %}

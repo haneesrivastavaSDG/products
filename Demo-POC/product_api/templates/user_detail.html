@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ user.firstName }} {{ user.lastName }} - Unified API Demo{% endblock %}
+
+{% block content %}
+<a href="{{ url_for('users_list') }}" class="btn" style="margin-bottom: 2rem;">&larr; Back to Users</a>
+
+<div class="detail-container">
+    <div class="detail-image" style="flex: 0 0 200px;">
+        <img src="{{ user.image }}" alt="{{ user.firstName }} {{ user.lastName }}"
+            style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 6px rgba(0,0,0,0.1); background: #f8f9fa;">
+    </div>
+    <div class="detail-info">
+        <h2>{{ user.firstName }} {{ user.lastName }}</h2>
+        <p style="color: #666; font-size: 1.2rem; margin-bottom: 2rem;">{{ user.company.title }} at {{ user.company.name
+            }}</p>
+
+        <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem;">
+            <div class="info-group">
+                <h4>Contact Info</h4>
+                <p><strong>Email:</strong> {{ user.email }}</p>
+                <p><strong>Phone:</strong> {{ user.phone }}</p>
+                <p><strong>Username:</strong> {{ user.username }}</p>
+            </div>
+
+            <div class="info-group">
+                <h4>Personal Info</h4>
+                <p><strong>Age:</strong> {{ user.age }}</p>
+                <p><strong>Gender:</strong> {{ user.gender }}</p>
+                <p><strong>Birth Date:</strong> {{ user.birthDate }}</p>
+                <p><strong>Blood Group:</strong> {{ user.bloodGroup }}</p>
+            </div>
+
+            <div class="info-group">
+                <h4>Address</h4>
+                <p>{{ user.address.address }}</p>
+                <p>{{ user.address.city }}, {{ user.address.state }} {{ user.address.postalCode }}</p>
+                <p>{{ user.address.country }}</p>
+            </div>
+
+            <div class="info-group">
+                <h4>University</h4>
+                <p>{{ user.university }}</p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

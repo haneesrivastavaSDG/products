@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechConf 2025</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container header-content">
+            <a href="/" class="logo">TechConf 2025</a>
+            <form action="/" method="get" class="search-form">
+                <input type="text" name="q" placeholder="Search sessions, speakers..." value="{{ query }}">
+                <button type="submit">Search</button>
+            </form>
+        </div>
+    </header>
+
+    <main class="container">
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 TechConf. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
